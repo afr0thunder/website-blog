@@ -1,0 +1,9 @@
+1. update password is not loggingthe new password into mongodb
+2. after successful login, redirects to the not authorized page, sometimes
+3. are posts displaying properly in profile page?
+4. Make more pretty
+5. Author info not displaying correctly in posts
+6. text of index isnt dynamic
+7. nav bar compresses on itself on smaller screen
+8. comment edit tags, ew
+9. redirect for post creation to actual post
